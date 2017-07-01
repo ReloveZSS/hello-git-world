@@ -1,2 +1,3 @@
 # hello-git-world
-my first github
+我的第一个github
+拓荒的过程总是伴随着痛苦和喜悦
